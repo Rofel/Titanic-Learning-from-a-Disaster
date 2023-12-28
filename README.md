@@ -9,7 +9,7 @@ Kaggle is a Data Science site with competitions for those who want to learn (my 
 
 
 # TL: DR
-[Notebook]
+[Notebook](https://github.com/Rofel/Titanic-Learning-from-a-Disaster/blob/main/Survival%20Prediction_Titanic%20-%20Machine%20Learning%20from%20Disaster.ipynb)
 - Used method: Logistic Regression (stats model library).
 - In this project, I used AI (chatGPT) to create plot codes as I was kinda unfamiliar with that and was a great tool to speed up the process.
 - The notebook is commented to explain all the thinking processes and decision-making.
